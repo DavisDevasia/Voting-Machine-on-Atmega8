@@ -1,2 +1,2 @@
-# ATmega8
-Projects I made on AVR microcontoller ATmega8
+# Voting-Machine-on-Atmega8
+Voting Machine project, made as part of training
